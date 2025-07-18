@@ -1408,6 +1408,16 @@ export const internationalQwenModels = {
 		cacheWritesPrice: 0.55,
 		cacheReadsPrice: 0.14,
 	},
+	"deepseek-r1-0528": {
+		maxTokens: 8_000,
+		contextWindow: 64_000,
+		supportsImages: false,
+		supportsPromptCache: true,
+		inputPrice: 0,
+		outputPrice: 2.19,
+		cacheWritesPrice: 0.55,
+		cacheReadsPrice: 0.14,
+	},
 	"qwen-vl-max": {
 		maxTokens: 30_720,
 		contextWindow: 32_768,
