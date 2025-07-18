@@ -1839,7 +1839,7 @@ export const doubaoModels = {
 		cacheWritesPrice: 0,
 		cacheReadsPrice: 0,
 	},
-	"deepseek-r1-250120": {
+	"deepseek-r1-250528": {
 		maxTokens: 32_768,
 		contextWindow: 64_000,
 		supportsImages: false,
